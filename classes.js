@@ -24,9 +24,6 @@ class Bicycle extends Vehicle {
     console.log(this.wheels);
   }
 }
-
-// your code goes here
-
 const myVehicle = new Vehicle();
 myVehicle.honkHorn(); // beep beep
 const myBike = new Bicycle();
